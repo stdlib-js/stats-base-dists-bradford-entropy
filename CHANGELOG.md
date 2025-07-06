@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`5a53fcc`](https://github.com/stdlib-js/stdlib/commit/5a53fcc1adc1a598d44feb69812cc2869d1590ac) - **test:** adjust tolerance to ensure passing tests _(by Athan Reines)_
 -   [`625d924`](https://github.com/stdlib-js/stdlib/commit/625d924e6c427a2a5c7c6d0a2eb43f9a5a47e429) - **chore:** clean-up _(by Athan Reines)_
 -   [`1acbc66`](https://github.com/stdlib-js/stdlib/commit/1acbc66006c70ed6d23ea1abd4307da4b9b9235b) - **feat:** add C implementation for `stats/base/dists/bradford/entropy` _(by Philipp Burckhardt)_
 -   [`fe60f20`](https://github.com/stdlib-js/stdlib/commit/fe60f203dd58e075e075d8cc8751216b66314fc9) - **chore:** adds `opts` [(#6908)](https://github.com/stdlib-js/stdlib/pull/6908) _(by Harsh)_
