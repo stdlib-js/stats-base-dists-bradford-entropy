@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-25)
+## Unreleased (2025-07-06)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`625d924`](https://github.com/stdlib-js/stdlib/commit/625d924e6c427a2a5c7c6d0a2eb43f9a5a47e429) - **chore:** clean-up _(by Athan Reines)_
 -   [`1acbc66`](https://github.com/stdlib-js/stdlib/commit/1acbc66006c70ed6d23ea1abd4307da4b9b9235b) - **feat:** add C implementation for `stats/base/dists/bradford/entropy` _(by Philipp Burckhardt)_
 -   [`fe60f20`](https://github.com/stdlib-js/stdlib/commit/fe60f203dd58e075e075d8cc8751216b66314fc9) - **chore:** adds `opts` [(#6908)](https://github.com/stdlib-js/stdlib/pull/6908) _(by Harsh)_
 -   [`e991da9`](https://github.com/stdlib-js/stdlib/commit/e991da93b36805cf0705e9a9625f06b9c2e44173) - **docs:** replace manual `for` loop in examples [(#6906)](https://github.com/stdlib-js/stdlib/pull/6906) _(by Harsh)_
@@ -39,8 +40,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
